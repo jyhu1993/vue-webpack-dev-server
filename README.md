@@ -1,2 +1,2 @@
 # vue-webpack-dev-server
-vue+webpack-dev-server打造的todo应用，主要用于练习使用webpack搭建工程项目
+vue+webpack-dev-server打造的todo应用，从零开始构建工程应用
